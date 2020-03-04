@@ -1,0 +1,33 @@
+* {
+  font-family: fantasy;
+}
+
+h2 {
+  text-align: center;
+  background-color: black;
+  color: white;
+}
+
+header { 
+  background-color: lightseagreen;
+  text-align: center;
+}
+
+#about-me {
+  display: block;
+  width: 100%;
+}
+
+article {
+  display: inline-block;
+  width: 49%;
+}
+
+main {
+  background-color: grey;
+}
+
+footer {
+  background-color: lightgrey;
+  text-align: center;
+}
