@@ -127,3 +127,23 @@ for (var i = 0; i < 5; i++) {
 alert('Alright ' + name + ', your score was ' + score + '!')
 
 console.log(score)
+
+// var quiz7 = prompt('Guess my fave food!');
+// var faveFoods = ['pizza' , 'steak' , 'ice cream'];
+// var attempts = 6;
+
+// //nested loop using a label
+// loop1: for (attempts = 0; attempts < 6; attempts++) {
+//   var quiz7 = prompt('Guess my fave food!');
+//   loop2: for (var answerIndex = 0; answerIndex < faveFoods.length; answerIndex++) {
+//     quiz7 = quiz7.toLowerCase();
+//     if (quiz7 === faveFoods[answerIndex]) {
+//       console.log(quiz7);
+//       alert('great job!');
+//       break loop1;
+//     // } else {
+//     //   alert('Sorry, I love pizza, steak and ice cream')
+//     // }
+//   }
+//   if (attempts < 6) alert("wrong")
+// }
