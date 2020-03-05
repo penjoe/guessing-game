@@ -1,5 +1,5 @@
 # Code 201 Guessing Game
-A simple guessing game guessing game built during Code 201 as a practice tool while learning HTML, CSS and JavaScript.
+A simple guessing game guessing game built during Code 201 as a practice tool while learning HTML, CSS and JavaScript. At the moment, the focus is to learn JS scripting and to understand conditional logic. So far, there are a series of prompts when loading the page. The first 5 questions require a yes or no response. The last two questions add more complexity. #6 asks the user to guess a number, gives hints of the guess is too high or too low and will end after a right answer or 4 attempts. #7 will ask a question that has several potential right answers. The user has 6 attempts to guess a correct answer, then will be given an alert with all the possibilities. Finally, there is an alert that will give the user their total score for the entire "quiz". Hope you have fun following along!
 
 ## Built with:
 
