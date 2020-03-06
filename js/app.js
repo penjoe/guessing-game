@@ -74,3 +74,4 @@ multipleChoice('Ok ' + name + ' let\'s have some fun! Do you think you can name 
 alert('Alright ' + name + ', your score was ' + score + '!')
 
 console.log(score)
+
